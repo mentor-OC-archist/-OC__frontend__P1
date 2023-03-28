@@ -33,15 +33,23 @@ Une vidéo d'introduction du projet par le mentor:
    - [Favoris browser repository](???)
    #### Mindmaps: 
        - [...autres...](???)
+   #### Youtubers: 
+       - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+       - [Grafikart.fr](https://www.youtube.com/c/grafikart)
    #### Playlists video: 
+       - [Markdown intro](https://www.youtube.com/watch?v=RsTE9TjuhdY&ab_channel=Tuto)
+       - [Markdown Grafikart](https://www.youtube.com/watch?v=6hikjzymd0c&ab_channel=Grafikart.fr)
+       - [Markdonw TraversyMedia](https://www.youtube.com/watch?v=HUBNt18RFbo&ab_channel=TraversyMedia)
        - [???](???)
    #### OS Software (Windows): 
        - [???](???)
    #### WebSites
-       - [???](???)
+       - [Obsidian](https://obsidian.md/)
+         - [video](https://www.youtube.com/watch?v=nREnpgixe9U&ab_channel=ThibautLopes)
+       - [Notion](https://www.notion.so/fr-fr)
+       - [shortcutfoo](https://www.shortcutfoo.com/)
    #### Browser extensions (Chrome): 
-   - [P6: Disable Content-Security-Policy]()https://chrome.google.com/webstore/detail/disable-content-security/ieelmcmcagommplceebfedjlakkhpden/related)
-  - [???](???)
+       - [???](???)
    #### VSCode plugins:
        - [PDF Preview](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf)
        - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
