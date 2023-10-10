@@ -56,6 +56,8 @@ Une vidéo d'introduction du projet par le mentor:
         - [textpower proof](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
         - [insert random](https://marketplace.visualstudio.com/items?itemName=ElecTreeFrying.insert-random-text)
         - [texttoolbox](https://marketplace.visualstudio.com/items?itemName=CarloCardella.vscode-texttoolbox)
+       ###### CSS
+        - [css-minify](https://marketplace.visualstudio.com/items?itemName=DiegoMolina.css-minify)
     
 
 ### IV)STEP-BY-STEP: 
